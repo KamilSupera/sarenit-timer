@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Sarenit Timer">
+  <circle cx="128" cy="128" r="120.3" fill="#241c16"/>
+  <circle cx="128" cy="128" r="106.9" fill="none" stroke="#e2a93b" stroke-width="21.8"/>
+  <path d="M128 128 L128 51.2 A76.8 76.8 0 0 1 203.6 141.3 Z" fill="#f2d9a0"/>
+</svg>
